@@ -1,1 +1,0 @@
-# Dinamica_NaoLinear_projeto1
