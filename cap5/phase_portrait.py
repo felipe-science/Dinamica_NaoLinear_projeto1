@@ -3,7 +3,7 @@ import matplotlib.pyplot as plt
 
 # Definindo os parâmetros do sistema
 m = 1.0  # massa
-b = 0.2  # constante de amortecimento
+b = 0.0  # constante de amortecimento
 k = 1.0  # constante da mola
 
 # Função que define o sistema de equações diferenciais

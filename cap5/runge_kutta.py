@@ -3,7 +3,7 @@ import numpy as np
 
 # Parâmetros do sistema
 m = 1.0   # massa
-b = 0.0   # constante de amortecimento (b > 0)
+b = 0.5   # constante de amortecimento (b > 0)
 k = 1.0   # constante elástica
 h = 0.01  # passo de tempo
 t_max = 20.0  # tempo total de simulação
